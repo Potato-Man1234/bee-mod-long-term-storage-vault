@@ -16,7 +16,7 @@ Hovering Harry's cursed items: https://github.com/Endernice61/Hovering-Harrys-Cu
 
 Hovering Harry's Portal Gun:  https://github.com/Endernice61/Hovering-Harrys-Portal-Gun
 
-Hovering Harry's Consistancy:  https://github.com/Endernice61/Hovering-Harry-s-consistency
+Hovering Harry's Consistency:  https://github.com/Endernice61/Hovering-Harry-s-consistency
 
 (If any of the links listed die please create an issue)
 
