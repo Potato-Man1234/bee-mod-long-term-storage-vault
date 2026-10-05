@@ -24,6 +24,8 @@ Even more music https://github.com/Cooki3Official/Cookie-s-Music/releases/tag/V2
 
 Areng items github https://github.com/Areng14/ArengBeemodPackages
 
+Beta Faithplate https://github.com/MasteryDUDE/Beemod-UCP-Beta-Faith-Plate
+
 More Panel type items https://github.com/lolqeeeeee/BEE2-Panels-Pack/releases
 
 (If any of the links listed die please create an issue)
