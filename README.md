@@ -20,6 +20,10 @@ Hovering Harry's Consistency:  https://github.com/Endernice61/Hovering-Harry-s-c
 
 More Music https://drive.google.com/file/d/1KxNQQSipV_gl0Puhi_LdX5F00EXcmfQd/view?usp=sharing 
 
+Even more music https://github.com/Cooki3Official/Cookie-s-Music/releases/tag/V2
+
+Areng items github https://github.com/Areng14/ArengBeemodPackages
+
 More Panel type items https://github.com/lolqeeeeee/BEE2-Panels-Pack/releases
 
 (If any of the links listed die please create an issue)
