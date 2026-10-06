@@ -28,6 +28,8 @@ Beta Faithplate https://github.com/MasteryDUDE/Beemod-UCP-Beta-Faith-Plate
 
 More Panel type items https://github.com/lolqeeeeee/BEE2-Panels-Pack/releases
 
+Fox silly decoration https://github.com/thesillyfoxx/Fox-silly-decoration-items-for-bee2
+
 (If any of the links listed die please create an issue)
 
 
