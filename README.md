@@ -5,11 +5,13 @@ to download one of the files just click on it and click "view raw"
 
 If you are to add to the vault the extension of your file should be .bee_pack if github would normally accept the size of it,  otherwise use .zip to use github LFS if it exceeds that limit
 
+--------------------------------------------------------------
 
 FOR MORE UP TO DATE BEEPACKS (BUT LESS COMPREHENSIVE):
 
 Please visit: https://github.com/BeemodTools/BeePM/releases/
 
+--------------------------------------------------------------
 
 Moar Filez:
 
