@@ -5,6 +5,13 @@ to download one of the files just click on it and click "view raw"
 
 If you are to add to the vault the extension of your file should be .bee_pack if github would normally accept the size of it,  otherwise use .zip to use github LFS if it exceeds that limit
 
+--------------------------------------------------------------
+
+FOR MORE UP TO DATE BEEPACKS (BUT LESS COMPREHENSIVE):
+
+Please visit: https://github.com/BeemodTools/BeePM/releases/
+
+--------------------------------------------------------------
 
 Moar Filez:
 
@@ -17,6 +24,18 @@ Hovering Harry's cursed items: https://github.com/Endernice61/Hovering-Harrys-Cu
 Hovering Harry's Portal Gun:  https://github.com/Endernice61/Hovering-Harrys-Portal-Gun
 
 Hovering Harry's Consistency:  https://github.com/Endernice61/Hovering-Harry-s-consistency
+
+More Music https://drive.google.com/file/d/1KxNQQSipV_gl0Puhi_LdX5F00EXcmfQd/view?usp=sharing 
+
+Even more music https://github.com/Cooki3Official/Cookie-s-Music/releases/tag/V2
+
+Areng items github https://github.com/Areng14/ArengBeemodPackages
+
+Beta Faithplate https://github.com/MasteryDUDE/Beemod-UCP-Beta-Faith-Plate
+
+More Panel type items https://github.com/lolqeeeeee/BEE2-Panels-Pack/releases
+
+Fox silly decoration https://github.com/thesillyfoxx/Fox-silly-decoration-items-for-bee2
 
 (If any of the links listed die please create an issue)
 
